@@ -10,7 +10,7 @@ st.markdown("<h1 style='text-align: center; color: #d63384;'>🎉 Happy Birthday
 st.markdown("<h3 style='text-align: center;'>💖🌸✨💐🌷❤️</h3>", unsafe_allow_html=True)
 
 # Show image
-st.image("sabbyyy_beach.jpg", caption="Sabbyyy at the beach 🏖️", use_container_width=True)
+st.image("sabby_bday.jpg", caption="Sabbyyy's Birthday🏖️", use_container_width=True)
 
 
 # Button to reveal message
