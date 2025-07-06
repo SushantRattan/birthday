@@ -15,20 +15,32 @@ st.image("sabbyyy_beach.jpg", caption="Sabbyyy at the beach 🏖️", use_contai
 
 # Button to reveal message
 if st.button("💌 Open My Message"):
-   st.markdown("""
+st.markdown("""
 <div style='background-color: #fff0f5; padding: 20px; border-radius: 12px; border: 2px solid #ff69b4;'>
     <h3 style='color: #c2185b; font-family: "Segoe UI", sans-serif;'>💝 A Birthday Note Just for You 💝</h3>
     <p style='font-size: 17px; color: #333; font-family: "Segoe UI", sans-serif; line-height: 1.6;'>
-        Hey Sabbyyy! 🎉<br><br>
-        Happy Birthday to the girl who makes online friendship magical! ✨<br>
-        You’re like a sunny sky with sparkles — always bright, always beautiful. 🌈<br><br>
-        Semoga harimu dipenuhi dengan cinta dan tawa. 💖<br><br>
-        Never stop being the cute, chaotic, amazing you!<br><br>
-        With virtual hugs,<br>
-        Tatan 🧃🫶🏼
+        Dear Sabbyyy 🎀,<br><br>
+
+        Today isn't just another day — it's the day the world got a little brighter, a little louder, and a lot more magical ✨<br><br>
+
+        You bring smiles with your chaos, laughter with your jokes, and warmth with your kindness. You're a beautiful mess of sunshine, starlight, and sleepy memes 🌈🌙💬<br><br>
+
+        <strong>Dari jauh, aku kirimkan pelukan virtual dan kue imajiner 🎂</strong> — because you deserve all the love and joy today and every day 💖<br><br>
+
+        <strong>Tetaplah menjadi kamu yang lucu, gila, dan manis.</strong> The world needs more of your kind — unfiltered, funny, and full of heart 😄<br><br>
+
+        <strong>Semoga harimu dipenuhi kejutan manis, tawa lepas, dan momen-momen yang bikin hati hangat.</strong><br>
+        May your day be full of sweet surprises, wild laughter, and warm memories ✨<br><br>
+
+        Thank you for being such an amazing online friend, for all the chaos, love, and friendship 🫶🏼<br><br>
+
+        With all my virtual love and Spotify vibes,<br>
+        Your goofy buddy,<br>
+        Tatan 🧃💖
     </p>
 </div>
 """, unsafe_allow_html=True)
+
 
 
 # Background music
